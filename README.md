@@ -67,7 +67,7 @@ The analysis focuses on:
 4.	Review payment preferences and provide convenient payment options.
 5.	Monitor shopping mall performance to identify opportunities for improvement.
 6.	Use the Power BI dashboard regularly to track sales and customer behaviour.
-7.	
+
  Final Conclusion
 This project demonstrates how Excel, SQL, and Power BI can be used together to analyse customer shopping behaviour. The analysis converts raw transaction data into meaningful business insights and helps businesses understand customers, monitor sales performance, and make data-driven decisions.
 
