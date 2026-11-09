@@ -25,7 +25,7 @@ price	Price per unit in Turkish Lira (TL)
 payment_method	Method of payment
 invoice_date	Date of transaction
 shopping_mall	Name of the shopping mall
-3. Tools and Models Used
+ Tools and Models Used
 
 Tools used:
 •	Microsoft Excel: Data cleaning, calculations, and initial data analysis.
@@ -40,7 +40,7 @@ Analytical methods used:
 •	Comparative analysis by gender, age group, product category, and payment method.
 
 Note: This project uses descriptive and exploratory analytical methods. No machine-learning prediction model was used.
-4. Key Project Metrics
+ Key Project Metrics
 
 The following summary figures were obtained during the analysis:
 •	Total Transactions: 99,457
@@ -49,7 +49,7 @@ The following summary figures were obtained during the analysis:
 
 Important: The revenue is reported in the dataset's currency, Turkish Lira (TL), not Indian Rupees. The figure should be written as TL 251,505,794, subject to final verification against the cleaned dataset.
 
-5. Conclusions
+ Conclusions
 The project helps understand customer purchasing behaviour and provides insights into sales performance.
 
 The analysis focuses on:
@@ -60,7 +60,7 @@ The analysis focuses on:
 •	Analysing payment method preferences.
 •	Comparing shopping behaviour across different shopping malls.
 
-7. Business Recommendations
+ Business Recommendations
 1.	Focus marketing campaigns on customer segments that contribute strongly to sales.
 2.	Promote popular product categories through offers and discounts.
 3.	Develop targeted promotions for different age groups.
@@ -68,6 +68,6 @@ The analysis focuses on:
 5.	Monitor shopping mall performance to identify opportunities for improvement.
 6.	Use the Power BI dashboard regularly to track sales and customer behaviour.
 7.	
-8. Final Conclusion
+ Final Conclusion
 This project demonstrates how Excel, SQL, and Power BI can be used together to analyse customer shopping behaviour. The analysis converts raw transaction data into meaningful business insights and helps businesses understand customers, monitor sales performance, and make data-driven decisions.
 
