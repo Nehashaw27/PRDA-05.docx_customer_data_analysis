@@ -29,7 +29,9 @@ shopping_mall	Name of the shopping mall
 
 Tools used:
 •	Microsoft Excel: Data cleaning, calculations, and initial data analysis.
+
 •	SQL: Data querying, filtering, grouping, and summarising records.
+
 •	Power BI: Dashboard creation, KPI cards, charts, and interactive visualisations.
 
 Analytical methods used:
